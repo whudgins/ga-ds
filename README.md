@@ -39,6 +39,7 @@ Students must fulfill a number of requirements in order to receive General Assem
 
 
 
+
 ## Schedule
 The schedule is subject to change per class needs and desires.
 
@@ -46,7 +47,7 @@ The schedule is subject to change per class needs and desires.
 |--------------|---------------------------------------------------------|--------------------------------|---------|
 | Mon - Dec 7  | [Intro To Data Science](01_intro)                       | [hw01](hw/hw_01.pdf)           | Dec 9   |
 | Wed - Dec 9  | [Linear Algebra with Python](02_pandas)                 | [hw02](hw/hw_02.ipynb)         | Dec 16  |
-| Mon - Dec 14 | K Nearest Neighbors                                     | [milestone1](extra/project.md) | Dec 21  | 
+| Mon - Dec 14 | [K Nearest Neighbors](03_knn)                           | [milestone1](extra/project.md) | Dec 21  | 
 | Wed - Dec 16 | Naive Bayes                                             |                                |         | 
 | Mon - Dec 21 | Linear Regression                                       | [hw03](hw/hw_03.pdf)           | Jan 4   |
 | Wed - Dec 23 | **No Class**                                            |                                |         |
@@ -62,11 +63,11 @@ The schedule is subject to change per class needs and desires.
 | Wed - Jan 27 | Ensemble Techniques                                     | [milestone3](extra/project.md) | Feb 17  |
 | Mon - Feb 1  | Decision Trees                                          | [hw07](hw/hw_07.pdf)           | Feb 8   |
 | Wed - Feb 3  | Dimensionality Reduction                                | [hw08](hw/hw_08.pdf)           | Feb 10  |
-| Mon - Feb 8  | NLP                                                     |                                |         |
+| Mon - Feb 8  | Guest Lecture, NLP                                      |                                |         |
 | Wed - Feb 10 | Recommendation Systems                                  |                                |         |
 | Mon - Feb 15 | **No Class**                                            |                                |         |
 | Wed - Feb 17 | Project Preparation Day                                 | [milestone4](extra/project.md) | Mar 2   |
-| Mon - Feb 22 | NLP                                                     |                                |         |
+| Mon - Feb 22 | Graph Theory                                            |                                |         |
 | Wed - Feb 24 | Neural Networks                                         |                                |         |
 | Mon - Feb 29 | Map Reduce                                              |                                |         |
 | Wed - Mar 2  | TBD                                                     |                                |         |
